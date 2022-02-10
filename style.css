@@ -1,0 +1,18 @@
+#neon {
+    font-family: 'Oswald';
+    position: relative;
+    display: inline-block;
+    color: #3af321;
+    font-size: 30px;
+    padding: 15px 30px;
+    letter-spacing: 5px;
+    transition: 0.4s;
+}
+
+#neon:hover {
+    color: #58c74a;
+    background-color: #3af321;
+    box-shadow: 0px 0px 10px #3af321, 0px 0px 40px #3af321, 0px 0px 80px #3af321;
+    transition-delay: 0.2s;
+    font-size: 32px;
+}
